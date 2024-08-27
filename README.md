@@ -1,6 +1,10 @@
 # flutter_web
 
-A new Flutter project. yuhu
+A new Flutter project.
+
+# this link demo for website
+
+https://66cd5981baf6ea8225fb8177--tangerine-stroopwafel-d8776b.netlify.app/
 
 ## Getting Started
 
